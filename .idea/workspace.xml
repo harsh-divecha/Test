@@ -2,66 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="480e0993-b0c7-4556-8713-095947d52a66" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/psicollectives.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/404.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about2.html" beforeDir="false" afterPath="$PROJECT_DIR$/about2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/accordions.html" beforeDir="false" afterPath="$PROJECT_DIR$/accordions.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/animate-on-scroll.html" beforeDir="false" afterPath="$PROJECT_DIR$/animate-on-scroll.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bars-charts.html" beforeDir="false" afterPath="$PROJECT_DIR$/bars-charts.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blank.html" beforeDir="false" afterPath="$PROJECT_DIR$/blank.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/buttons.html" beforeDir="false" afterPath="$PROJECT_DIR$/buttons.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/carousels.html" beforeDir="false" afterPath="$PROJECT_DIR$/carousels.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/clients.html" beforeDir="false" afterPath="$PROJECT_DIR$/whydancewithus.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/columns.html" beforeDir="false" afterPath="$PROJECT_DIR$/columns.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/comingsoon.html" beforeDir="false" afterPath="$PROJECT_DIR$/comingsoon.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact2.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/countdown.html" beforeDir="false" afterPath="$PROJECT_DIR$/countdown.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/faq.html" beforeDir="false" afterPath="$PROJECT_DIR$/faq.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/indexkenburns.html" beforeDir="false" afterPath="$PROJECT_DIR$/indexkenburns.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/indexkenburns2.html" beforeDir="false" afterPath="$PROJECT_DIR$/indexkenburns2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/indexparallax.html" beforeDir="false" afterPath="$PROJECT_DIR$/indexparallax.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/indexparallax2.html" beforeDir="false" afterPath="$PROJECT_DIR$/indexparallax2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/indexparallaxhalf.html" beforeDir="false" afterPath="$PROJECT_DIR$/indexparallaxhalf.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/indexparallaxhalf2.html" beforeDir="false" afterPath="$PROJECT_DIR$/indexparallaxhalf2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/indexportfolio.html" beforeDir="false" afterPath="$PROJECT_DIR$/indexportfolio.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/indexportfolio2.html" beforeDir="false" afterPath="$PROJECT_DIR$/indexportfolio2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/indexslider.html" beforeDir="false" afterPath="$PROJECT_DIR$/indexslider.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/indexslider2.html" beforeDir="false" afterPath="$PROJECT_DIR$/indexslider2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/indextextrotator.html" beforeDir="false" afterPath="$PROJECT_DIR$/indextextrotator.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/indextextrotator2.html" beforeDir="false" afterPath="$PROJECT_DIR$/indextextrotator2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/indexvideo.html" beforeDir="false" afterPath="$PROJECT_DIR$/indexvideo.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/indexvideo2.html" beforeDir="false" afterPath="$PROJECT_DIR$/indexvideo2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/layout-page.html" beforeDir="false" afterPath="$PROJECT_DIR$/layout-page.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nav.html" beforeDir="false" afterPath="$PROJECT_DIR$/nav.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/news-single-sidebar.html" beforeDir="false" afterPath="$PROJECT_DIR$/news-single-sidebar.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/news-single.html" beforeDir="false" afterPath="$PROJECT_DIR$/news-single.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/news2-sidebar.html" beforeDir="false" afterPath="$PROJECT_DIR$/news2-sidebar.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/news2.html" beforeDir="false" afterPath="$PROJECT_DIR$/news2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/news3.html" beforeDir="false" afterPath="$PROJECT_DIR$/news3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/news4.html" beforeDir="false" afterPath="$PROJECT_DIR$/news4.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-boxed-2.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-boxed-2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-boxed-3.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-boxed-3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-boxed-4.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-boxed-4.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-masonry-2.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-masonry-2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-masonry-3.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-masonry-3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-masonry-4.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-masonry-4.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-single.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-single.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-wide-2.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-wide-2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-wide-3.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-wide-3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-wide-4.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-wide-4.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pricing.html" beforeDir="false" afterPath="$PROJECT_DIR$/pricing.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/register-login.html" beforeDir="false" afterPath="$PROJECT_DIR$/register-login.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/services.html" beforeDir="false" afterPath="$PROJECT_DIR$/services.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-cart.html" beforeDir="false" afterPath="$PROJECT_DIR$/shop-cart.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-single.html" beforeDir="false" afterPath="$PROJECT_DIR$/shop-single.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop.html" beforeDir="false" afterPath="$PROJECT_DIR$/shop.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop2.html" beforeDir="false" afterPath="$PROJECT_DIR$/shop2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/team.html" beforeDir="false" afterPath="$PROJECT_DIR$/team.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/theprogram.html" beforeDir="false" afterPath="$PROJECT_DIR$/theprogram.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/typography.html" beforeDir="false" afterPath="$PROJECT_DIR$/typography.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -74,11 +17,36 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="259">
-              <caret line="108" column="48" selection-start-line="108" selection-start-column="48" selection-end-line="108" selection-end-column="48" />
+            <state relative-caret-position="138">
+              <caret line="279" column="46" selection-start-line="279" selection-start-column="46" selection-end-line="279" selection-end-column="46" />
+              <folding>
+                <element signature="n#nav#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#section#3;n#body#0;n#html#0;n#!!top" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/psicollectives.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="22" column="30" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
+              <folding>
+                <element signature="n#section#6;n#body#0;n#html#0;n#!!top" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/bootstrap.min.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="4" column="16250" selection-start-line="4" selection-start-column="16244" selection-end-line="4" selection-end-column="16250" />
             </state>
           </provider>
         </entry>
@@ -86,7 +54,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/whydancewithus.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1090">
+            <state relative-caret-position="2176">
               <caret line="237" column="10" selection-start-line="237" selection-start-column="10" selection-end-line="237" selection-end-column="10" />
               <folding>
                 <element signature="n#nav#0;n#body#0;n#html#0;n#!!top" />
@@ -100,8 +68,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/theprogram.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="667">
-              <caret line="232" column="14" lean-forward="true" selection-start-line="199" selection-start-column="4" selection-end-line="232" selection-end-column="14" />
+            <state relative-caret-position="3944">
+              <caret line="232" column="14" selection-start-line="199" selection-start-column="4" selection-end-line="232" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -114,6 +82,8 @@
       <find>Though</find>
       <find>through</find>
       <find>though</find>
+      <find>circle</find>
+      <find>PSI-X</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -127,6 +97,7 @@
         <option value="$PROJECT_DIR$/faq.html" />
         <option value="$PROJECT_DIR$/whydancewithus.html" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/psicollectives.html" />
       </list>
     </option>
   </component>
@@ -141,6 +112,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -148,18 +120,22 @@
               <item name="pheromonehtml-11" type="b2602c69:ProjectViewProjectNode" />
               <item name="pheromonehtml-11" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="pheromonehtml-11" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pheromonehtml-11" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546715283528" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547317696015" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -167,6 +143,11 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.folding" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="X:\POP PRINTS\The F Squad\Website\pheromonehtml-11\pheromonehtml-11" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -181,12 +162,12 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="indexslider2.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/pheromonehtml-11/indexslider2.html">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" uri="http://localhost:63342/pheromonehtml-11/indexslider2.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JavaScript Debug.indexslider2.html" />
+        <item itemvalue="JavaScript Debug.index.html" />
       </list>
     </recent_temporary>
   </component>
@@ -208,16 +189,19 @@
       <workItem from="1546698024162" duration="146000" />
       <workItem from="1546698521271" duration="182000" />
       <workItem from="1546698748299" duration="8025000" />
+      <workItem from="1547279431717" duration="3163000" />
+      <workItem from="1547299721638" duration="5255000" />
+      <workItem from="1547318850838" duration="4420000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16257000" />
+    <option name="totallyTimeSpent" value="29095000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26928896" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28214827" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -267,16 +251,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/theprogram.html">
+    <entry file="file://$PROJECT_DIR$/css/bootstrap.min.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="667">
-          <caret line="232" column="14" lean-forward="true" selection-start-line="199" selection-start-column="4" selection-end-line="232" selection-end-column="14" />
+        <state relative-caret-position="340">
+          <caret line="4" column="16250" selection-start-line="4" selection-start-column="16244" selection-end-line="4" selection-end-column="16250" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/whydancewithus.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1090">
+        <state relative-caret-position="2176">
           <caret line="237" column="10" selection-start-line="237" selection-start-column="10" selection-end-line="237" selection-end-column="10" />
           <folding>
             <element signature="n#nav#0;n#body#0;n#html#0;n#!!top" />
@@ -286,10 +270,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/theprogram.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3944">
+          <caret line="232" column="14" selection-start-line="199" selection-start-column="4" selection-end-line="232" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="259">
-          <caret line="108" column="48" selection-start-line="108" selection-start-column="48" selection-end-line="108" selection-end-column="48" />
+        <state relative-caret-position="138">
+          <caret line="279" column="46" selection-start-line="279" selection-start-column="46" selection-end-line="279" selection-end-column="46" />
+          <folding>
+            <element signature="n#nav#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#3;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/psicollectives.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="22" column="30" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
+          <folding>
+            <element signature="n#section#6;n#body#0;n#html#0;n#!!top" />
+          </folding>
         </state>
       </provider>
     </entry>
